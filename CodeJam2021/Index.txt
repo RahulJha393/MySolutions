@@ -1,0 +1,2 @@
+I have uploaded all the slutions by me in this folder. Unfortunately I was not able to get the hidden test cases done so I was only able to secure 90 out of 101.
+if you are having better approach for the questions then I would love to get your solutions.
